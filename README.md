@@ -34,7 +34,7 @@ src/
     DemoScene
   index.css
   index.js
-  ```
+```
 
 ## Model credit
 
